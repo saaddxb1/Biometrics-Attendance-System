@@ -1,0 +1,2 @@
+# fas-arduino
+This code was utilized to program the Arduino for the Fingerprint Attendance System (FAS). C++ programming language and the Arduino IDE were used for programming the Arduino. FAS uses a combination of a fingerprint sensor and a database to simplify and speed up attendance tracking. It can be deployed in a variety of settings such as universities, schools, and offices to automate attendance marking for both students and employees.
