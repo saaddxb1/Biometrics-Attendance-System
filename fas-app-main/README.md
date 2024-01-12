@@ -1,0 +1,2 @@
+# fas-app
+This is the code for the FAS app. The FAS app has been developed using Java programming language and the Android Studio IDE. It utilizes a fingerprint sensor and a database to automate the attendance process, making it more efficient and convenient. The Fingerprint Attendance System (FAS) is suitable for use in schools, universities, and offices, allowing for seamless tracking of student and employee attendance.

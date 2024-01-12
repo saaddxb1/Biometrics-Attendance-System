@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658314905177",
+    "firebase_url": "https://fas-b45d6-default-rtdb.firebaseio.com",
+    "project_id": "fas-b45d6",
+    "storage_bucket": "fas-b45d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658314905177:android:b9ff04102d43c2c9ead348",
+        "android_client_info": {
+          "package_name": "com.example.fas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658314905177-4q1rt0faonmo459cnjua7tbqo3j6dtca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-wrvJbBKIrVOx7fMejJne52gr9gkLYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658314905177-4q1rt0faonmo459cnjua7tbqo3j6dtca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
